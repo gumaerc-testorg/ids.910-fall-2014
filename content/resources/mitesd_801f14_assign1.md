@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file contains information regarding assignment 1: assess, analyze,
   and reflect upon leadership.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-910-leadership-development-fall-2014/fe4200e9af5328cb5723978c1faa7124_MITESD_801F14_Assign1.pdf
+file: /media/courses/ids-910-leadership-development-fall-2014/fe4200e9af5328cb5723978c1faa7124_MITESD_801F14_Assign1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment 1: Assess, Analyze, and Reflect upon Leadership'
 uid: fe4200e9-af53-28cb-5723-978c1faa7124

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 ---
@@ -42,20 +44,6 @@ Core requirement in [Technology and Policy SM Program](http://tppserver.mit.edu/
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![IDS-910_classroom-1.jpg]({{< resource_file 9b5fbcaa-606e-3976-5256-e80b10f47257 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    IDS.910 was taught in a traditional classroom equipped with sliding chalkboards and projectors.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
