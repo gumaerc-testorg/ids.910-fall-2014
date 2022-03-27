@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 69a92810-8cf7-8925-56ac-ba8b47e5c27b
 resourcetype: Document
 title: 'Assignment 4: Personal Leadership Plan'
 uid: 8a44797f-60ba-be10-8b14-b39b9ef8e807

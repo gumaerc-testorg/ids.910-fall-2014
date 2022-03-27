@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 resourcetype: Image
 title: IDS-910_classroom-1.jpg
 uid: 9b5fbcaa-606e-3976-5256-e80b10f47257

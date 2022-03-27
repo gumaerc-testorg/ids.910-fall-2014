@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 69a92810-8cf7-8925-56ac-ba8b47e5c27b
 resourcetype: Document
 title: 'Assignment 2A: Group Assessment'
 uid: 724aaefa-22ad-71da-d852-f12798ba0b64

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 resourcetype: Image
 title: outward-bound_f10.jpg
 uid: b2af36ab-a82c-524b-5490-e711a61de002

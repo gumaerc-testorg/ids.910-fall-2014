@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 69a92810-8cf7-8925-56ac-ba8b47e5c27b
 resourcetype: Document
 title: 'Assignment 3: Elevator Speech'
 uid: 3874fbeb-deb6-2f2c-17ae-3cf8b1961a3a
