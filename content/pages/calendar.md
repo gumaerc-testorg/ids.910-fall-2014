@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page provides information about the course calendar, and biographical
+  information about invited guest speakers. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
