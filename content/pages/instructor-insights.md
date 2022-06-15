@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _IDS.910 Leadership Development_ as it was taught by Professor Dava Newman in Fall 2014.
 
@@ -16,22 +17,20 @@ This course is a required experience for first-year students in the [Technology 
 
 This is a partial term course and meets on an irregular schedule during the first 11 weeks of the 15-week semester.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Assess leadership characteristics in a variety of professional and social environments
-*   Analyze and reflect on instances of leadership in our everyday lives
-*   Articulate and communicate a personal leadership vision that is goal-oriented
-*   Synthesize a personal blueprint or check-list for action (a personal leadership plan)
+- Assess leadership characteristics in a variety of professional and social environments
+- Analyze and reflect on instances of leadership in our everyday lives
+- Articulate and communicate a personal leadership vision that is goal-oriented
+- Synthesize a personal blueprint or check-list for action (a personal leadership plan)
 
 ### Possibilities for Further Study/Careers
 
 IDS.910 prepares students for further study in the Technology and Policy Program.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -47,21 +46,21 @@ Every fall semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
-- 15% Assignment 1: Assess, Analyze and Reflect upon Leadership (PDF)
-- 15% Assignment 2: Reflection on the Outward Bound experience (PDF); structured DiSC assessment exercise (PDF-1.7MB)
-- 20% Assignment 3: Elevator Speech (PDF)
-- 30% Assignment 4: Personal Leadership Plan (PDF)
+- 15% Assignment 1: Assess, Analyze and Reflect upon Leadership
+- 15% Assignment 2: Reflection on the Outward Bound experience; Structured DiSC Assessment Exercise
+- 20% Assignment 3: Elevator Speech
+- 30% Assignment 4: Personal Leadership Plan
 - 20% Class discussion
 
-Student Information
--------------------
+## Student Information
 
-![IDS-910_stat-students.png]({{< resource_file d6e098fd-89fa-940f-e49f-cad97de2ec9f >}})
+### Enrollment
+
+40 students
 
 ### Breakdown by Year
 
@@ -73,37 +72,33 @@ First year graduate students in the [Technology and Policy Program](http://tppse
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 8 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 2 hours per session; 13 sessions total; mandatory attendance.
-*   Students participated in discussion group sessions and Leadership Lunches, in addition to a two-day Thompson Island Outward Bound Leadership Laboratory experience.
+- Met 1 time per week for 2 hours per session; 13 sessions total; mandatory attendance.
+- Students participated in discussion group sessions and Leadership Lunches, in addition to a two-day Thompson Island Outward Bound Leadership Laboratory experience.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Readings]({{< baseurl >}}/pages/readings)
-*   [Assignments]({{< baseurl >}}/pages/assignments)
+- {{% resource_link 6451d097-3e67-c66d-890b-8dd0e567f7da "Readings" %}}
+- {{% resource_link 69a92810-8cf7-8925-56ac-ba8b47e5c27b "Assignments" %}}
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
-![outward-bound_f10.jpg]({{< resource_file b2af36ab-a82c-524b-5490-e711a61de002 >}})
+{{< resource b2af36ab-a82c-524b-5490-e711a61de002 >}}
 
 IDS.910 students participate in an Outward Bound experience to build trust, leadership, and communication skills. (Image courtesy of Alexandre Jacquillat. Used with permission.)
 
 ### Lead Instructor (Prof. Dava Newman)
 
-*   Oversees teaching of the course
-*   Introduces the Sloan Leadership Model
-*   Lectures on Creativity and Improvisation
+- Oversees teaching of the course
+- Introduces the Sloan Leadership Model
+- Lectures on Creativity and Improvisation
 
 ### Discussion Leaders (Upper-year students)
 
