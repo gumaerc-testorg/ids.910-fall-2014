@@ -13,10 +13,10 @@ image_metadata:
   image-alt: Image of painting by Paul Gauguin, Where Do We Come From? What Are We?
     Where Are We Going?
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ids-910f14-th.jpg
 uid: be25a133-efa9-d796-80fe-c5ef13f0740d
 ---
 Where Do We Come From? What Are We? Where Are We Going? by Paul Gauguin, 1897. Students are asked to reflect on the three questions posed by Gauguin in this piece in Assignment 1. This image is in the public domain. 
-

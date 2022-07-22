@@ -6,6 +6,7 @@ file: /courses/ids-910-leadership-development-fall-2014/8a44797f60babe108b14b39b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 4: Personal Leadership Plan'
 uid: 8a44797f-60ba-be10-8b14-b39b9ef8e807
 ---
 This file contains information regarding assignment 4: personal leadership plan.
-

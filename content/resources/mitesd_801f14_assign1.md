@@ -6,6 +6,7 @@ file: /courses/ids-910-leadership-development-fall-2014/fe4200e9af5328cb5723978c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 1: Assess, Analyze, and Reflect upon Leadership'
 uid: fe4200e9-af53-28cb-5723-978c1faa7124
 ---
 This file contains information regarding assignment 1: assess, analyze, and reflect upon leadership.
-
