@@ -13,7 +13,7 @@ uid: 5a61e620-46d0-bd3b-ccf5-cdfd235beced
 
 This page focuses on the course _IDS.910 Leadership Development_ as it was taught by Professor Dava Newman in Fall 2014.
 
-This course is a required experience for first-year students in the [Technology and Policy Program](http://tppserver.mit.edu/) (TTP). It is designed to help students develop their leadership capabilities. An initial Outward Bound experience builds trust, teamwork and communication skills. Classes are held in a seminar environment and readings and assignments emphasize the characteristics of desired leadership skills. Global leaders participate in the “Leadership Lunch” story-telling series to share experiences and to provide recommendations. Discussions help explore and further probe leadership development. The learning experience culminates in a personal leadership plan.
+This course is a required experience for first-year students in the {{% resource_link "520ffe92-222e-428f-a26f-ffa5767a5f68" "Technology and Policy Program" %}} (TTP). It is designed to help students develop their leadership capabilities. An initial Outward Bound experience builds trust, teamwork and communication skills. Classes are held in a seminar environment and readings and assignments emphasize the characteristics of desired leadership skills. Global leaders participate in the “Leadership Lunch” story-telling series to share experiences and to provide recommendations. Discussions help explore and further probe leadership development. The learning experience culminates in a personal leadership plan.
 
 This is a partial term course and meets on an irregular schedule during the first 11 weeks of the 15-week semester.
 
@@ -38,7 +38,7 @@ Permission of the instructor
 
 ### Requirements Satisfied
 
-Core requirement in [Technology and Policy SM Program](http://tppserver.mit.edu/)
+Core requirement in {{% resource_link "520ffe92-222e-428f-a26f-ffa5767a5f68" "Technology and Policy SM Program" %}}
 
 ### Offered
 
@@ -68,7 +68,7 @@ Graduate students
 
 ### Breakdown by Major
 
-First year graduate students in the [Technology and Policy Program](http://tppserver.mit.edu/).
+First year graduate students in the {{% resource_link "520ffe92-222e-428f-a26f-ffa5767a5f68" "Technology and Policy Program" %}}.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
