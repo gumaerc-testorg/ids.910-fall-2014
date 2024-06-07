@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-910-leadership-development-fall-2014/b2af36aba82c524b5490e711a61de002_outward-bound_f10.jpg
+file_size: 138993
 file_type: image/jpeg
 image_metadata:
   caption: ''
