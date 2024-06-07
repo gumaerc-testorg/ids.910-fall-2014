@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-910-leadership-development-fall-2014/d6e098fd89fa940fe49fcad97de2ec9f_IDS-910_stat-students.png
+file_size: 2852
 file_type: image/png
 image_metadata:
   caption: ''
