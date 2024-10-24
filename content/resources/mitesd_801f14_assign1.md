@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding assignment 1: assess, analyze,
   and reflect upon leadership.'
-file: /courses/ids-910-leadership-development-fall-2014/fe4200e9af5328cb5723978c1faa7124_MITESD_801F14_Assign1.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/fe4200e9af5328cb5723978c1faa7124_MITESD_801F14_Assign1.pdf
 file_size: 641142
 file_type: application/pdf
 learning_resource_types:
