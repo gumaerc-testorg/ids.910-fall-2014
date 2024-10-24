@@ -3,7 +3,7 @@ content_type: resource
 description: 'Where Do We Come From? What Are We? Where Are We Going? by Paul Gauguin,
   1897. Students are asked to reflect on the three questions posed by Gauguin in this
   piece in Assignment 1. This image is in the public domain. '
-file: /courses/ids-910-leadership-development-fall-2014/be25a133efa9d79680fec5ef13f0740d_ids-910f14-th.jpg
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/be25a133efa9d79680fec5ef13f0740d_ids-910f14-th.jpg
 file_size: 11981
 file_type: image/jpeg
 image_metadata:
