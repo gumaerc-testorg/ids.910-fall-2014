@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding assignment 2a: group assessment.'
-file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/724aaefa22ad71dad852f12798ba0b64_MITESD_801F14_Assign2A.pdf
+file: /courses/ids-910-leadership-development-fall-2014/724aaefa22ad71dad852f12798ba0b64_MITESD_801F14_Assign2A.pdf
 file_size: 157647
 file_type: application/pdf
 learning_resource_types:
