@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding assignment 4: personal leadership
   plan.'
-file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/8a44797f60babe108b14b39b9ef8e807_MITESD_801F14_Assign4.pdf
+file: /courses/ids-910-leadership-development-fall-2014/8a44797f60babe108b14b39b9ef8e807_MITESD_801F14_Assign4.pdf
 file_size: 173937
 file_type: application/pdf
 learning_resource_types:
