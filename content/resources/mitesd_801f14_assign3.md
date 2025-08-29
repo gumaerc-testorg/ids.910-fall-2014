@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding assignment 3: elevator speech.'
-file: /courses/ids-910-leadership-development-fall-2014/3874fbebdeb62f2c17ae3cf8b1961a3a_MITESD_801F14_Assign3.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/3874fbebdeb62f2c17ae3cf8b1961a3a_MITESD_801F14_Assign3.pdf
 file_size: 142864
 file_type: application/pdf
 learning_resource_types:

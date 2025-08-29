@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ids-910-leadership-development-fall-2014/9b5fbcaa606e39765256e80b10f47257_IDS-910_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2014/9b5fbcaa606e39765256e80b10f47257_IDS-910_classroom-1.jpg
 file_size: 65861
 file_type: image/jpeg
 image_metadata:
