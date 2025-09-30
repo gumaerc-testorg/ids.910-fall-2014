@@ -29,7 +29,7 @@ Assignment 2b out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Thompson Island Outward Bound—Leadership Laboratory, directions and general information (A two-day trip to the [Thompson Island](http://thompsonisland.org/))
+Thompson Island Outward Bound—Leadership Laboratory, directions and general information (A two-day trip to the {{% resource_link "ae257eed-ebb2-409e-aa00-e29a3e119dcd" "Thompson Island" %}})
 {{< tdclose >}}{{< tdopen >}}
 Reading assignments
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -45,7 +45,7 @@ Assignment 2a due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Vivek Sakhrani — [DiSC Personal Assessment](http://en.wikipedia.org/wiki/DISC_assessment)
+Vivek Sakhrani — {{% resource_link "60bb3007-31f5-45bf-8766-1537b45c95c0" "DiSC Personal Assessment" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -122,10 +122,10 @@ The following links provide biographies and background about invited guest speak
 
 Professor Laurence Young, Apollo Program Professor of Astronautics & Health, Sciences, and Technology, MIT
 
-[Professor Geoff Parker](http://ggparker.net/), Professor of Management Science, Tulane University
+{{% resource_link "e3ce3e43-ad6e-460e-8b53-1160df69671d" "Professor Geoff Parker" %}}, Professor of Management Science, Tulane University
 
-[Dr. Mark Lewis](https://www.defense.gov/Our-Story/Biographies/Biography/Article/2016569/dr-mark-j-lewis/), Director of IDA Science and Technology Policy Institute
+{{% resource_link "a1cbe485-1d0d-41a3-a72d-028043d28a0a" "Dr. Mark Lewis" %}}, Director of IDA Science and Technology Policy Institute
 
-Dr. Jay Falker, Early Stage Portfolio Executive, [NASA Space Technology Mission Directorate](http://www.nasa.gov/directorates/spacetech/home/index.html)
+Dr. Jay Falker, Early Stage Portfolio Executive, {{% resource_link "bac7d850-c059-47e2-953a-e6b8475d6163" "NASA Space Technology Mission Directorate" %}}
 
-Dorothy Rasco, Chief Financial Officer, [NASA Johnson Space Center](http://www.nasa.gov/centers/johnson/home/index.html)
+Dorothy Rasco, Chief Financial Officer, {{% resource_link "b634d61e-4192-46bb-ace6-909ab7e40f36" "NASA Johnson Space Center" %}}
