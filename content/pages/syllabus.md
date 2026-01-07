@@ -22,7 +22,7 @@ Course Learning Objectives
 
 Students work in a seminar environment to enhance their leadership capabilities. An initial **Leadership Laboratory Outward Bound** experience builds trust, teamwork and communications. **Readings and assignments** emphasize the characteristics of effective leadership. Distinguished leaders participate in the "**Leadership Lunch**" story-telling series to share their experiences and to provide recommendations. **Discussions** help explore and further probe leadership development. The learning experience culminates in a **personal leadership plan**.
 
-This course is a required experience for first-year students in the {{% resource_link "19d210b5-0629-467c-bd1b-7189f324b0e3" "Technology and Policy Program (TPP)" %}}. Upon completing the seminar course, as TPP students you should be better able to:
+This course is a required experience for first-year students in the [Technology and Policy Program (TPP)](http://tppserver.mit.edu/). Upon completing the seminar course, as TPP students you should be better able to:
 
 *   **Assess** leadership characteristics in a variety of professional and social environments.
 *   **Analyze and reflect** on instances of leadership in your everyday lives.
